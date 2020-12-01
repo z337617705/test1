@@ -1,0 +1,42 @@
+body{
+	color: #666;
+}
+.box {
+	width: 100%;
+	height: 423px;
+	margin-top: 107px;
+	background: url(../images/box1.png)no-repeat center top;
+}
+
+.con {
+	width: 1200px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.box1_fl {
+	width: 400px;
+	padding-top: 100px;
+	float: left;
+}
+
+.box1_t {
+	font-size: 48px;
+	color: #ffffff;
+	text-align: left;
+}
+
+.box1_t span {
+	display: block;
+	font-size: 18px;
+	margin-top: 35px;
+}
+.a {
+	color: #666;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 15px;
+    line-height: 30px;
+    background-color: #ececec;
+    text-indent: 20px;
+}
